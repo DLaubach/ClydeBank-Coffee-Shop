@@ -196,7 +196,7 @@ footer a { color: white }
 }
 
 @keyframes background-pan {
-  from { background-position: left; )
+    from { background-position: left; }
       to {background-position: right; }
 }
 
