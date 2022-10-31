@@ -181,6 +181,25 @@ footer a { color: white }
 
 /* End Footer */
 
+/* KEYFRAME ANIMATION */
+
+#coffeehouse {
+   background-image: url("TEMP-NOTHING");
+   background-size: cover;
+   width: 100%;
+   height: 250px;
+   animation-name: backgroundpan;
+   animation-duration: 10s;
+   animation-timing-function: ease-in-out;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+}
+
+@keyframes background-pan {
+  from { background-position: left; )
+      to {background-position: right; }
+}
+
 /* Home Page Content */
 
 .menu-item.additional-items h2 {
