@@ -98,8 +98,7 @@ nav li a:hover {
     text-decoration: underline;
 }
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/espresso-machine-690498_1280.jpg);
-    /* https://pixabay.com/photos/espresso-machine-coffee-cafe-690498/ */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/background.jpg);
     background-size: cover;
     color: white;
     height: 50vw;
