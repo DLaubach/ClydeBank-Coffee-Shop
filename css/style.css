@@ -117,6 +117,19 @@ nav li a:hover {
     font-size: 4vw;
     padding-top: 1vw;
 }
+
+#top-announcement {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: black 
+}
+
 .item-inner {
     margin-left: 10px;
 }
