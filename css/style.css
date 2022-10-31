@@ -48,6 +48,25 @@ p { font-size: 1em; }
 
 img { border-style: none; }
 
+/* KEYFRAME ANIMATION */
+
+#coffeehouse {
+   background-image: url("../images/background.jpg");
+   background-size: cover;
+   width: 100%;
+   height: 250px;
+   animation-name: background-pan;
+   animation-duration: 10s;
+   animation-timing-function: ease-in-out;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+}
+
+@keyframes background-pan {
+    from { background-position: left; }
+      to { background-position: right; }
+}
+
 /* Sprites */
 .sprite-palette {
     display: block;
@@ -180,25 +199,6 @@ footer {
 footer a { color: white }
 
 /* End Footer */
-
-/* KEYFRAME ANIMATION */
-
-#coffeehouse {
-   background-image: url("../images/background.jpg");
-   background-size: cover;
-   width: 100%;
-   height: 250px;
-   animation-name: background-pan;
-   animation-duration: 10s;
-   animation-timing-function: ease-in-out;
-   animation-iteration-count: infinite;
-   animation-direction: alternate;
-}
-
-@keyframes background-pan {
-    from { background-position: left; }
-      to { background-position: right; }
-}
 
 /* Home Page Content */
 
