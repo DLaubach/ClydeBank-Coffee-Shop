@@ -52,8 +52,8 @@ img {
     display: table;
 }
 header {
-    background-color: black;
-    padding: 10px;
+    background-image: linear-gradient(sienna, chocolate); padding: 10px;
+    /* background-color: black; */
     position: fixed;
     top: 0;
     left: 0;
