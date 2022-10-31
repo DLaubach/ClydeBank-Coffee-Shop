@@ -187,18 +187,7 @@ nav li a {
 
 /* End Header */
 
-/* Footer */
 
-footer {
-    background: chocolate;
-    color: #fff;
-    padding: 10px;  
-    height: 100px;
-}
-
-footer a { color: white }
-
-/* End Footer */
 
 /* Home Page Content */
 
@@ -260,3 +249,16 @@ and (max-device-width:750px)
 }
 }
 /* End Page Content */
+
+/* Footer */
+
+footer {
+    background: chocolate;
+    color: #fff;
+    padding: 10px;  
+    height: 100px;
+}
+
+footer a { color: white }
+
+/* End Footer */
