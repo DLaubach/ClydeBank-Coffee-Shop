@@ -55,7 +55,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') 0 0;
+    background: url;('../images/art-icon.png') 0 0;
 }
 .sprite-guitar {
     display: block;
@@ -63,7 +63,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') -40px 0;
+    background: url;('../images/acoustic-jam.png') -40px 0;
 
 }
 .sprite-mask {
@@ -72,7 +72,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') -80px 0;
+    background: url;('../images/comedy-icon.png') -80px 0;
 }
 
 .sprite-controller {
@@ -81,7 +81,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') -120px 0;
+    background: url;('../images/gaming-icon.png') -120px 0;
 }
 
 .sprite-mic {
@@ -90,7 +90,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') -160px 0;
+    background: url;('../images/open-mic.png') -160px 0;
 }
 .sprite-quill {
     display: block;
@@ -98,7 +98,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url;('../images/sprite.png') -200px 0;
+    background: url;('../images/poetry-icon.png') -200px 0;
 }
 .sprite-cup {
     display: block;
@@ -106,7 +106,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url('../images/sprite.png') -240px 0;
+    background: url('../images/drink-icon.png') -240px 0;
 }
 .sprite-utensils {
     display: block;
@@ -114,7 +114,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url ('../images/sprite.png') -280px 0;
+    background: url ('../images/food-icon.png') -280px 0;
 }
 .sprite-milk {
     display: block;
@@ -122,7 +122,7 @@ img { border-style: none; }
     height: 40px;
     padding: 0;
     border: none;
-    background: url ('../images/sprite.png') -320px 0;
+    background: url ('../images/milk_icon.png') -320px 0;
 }
 .container {
     width: 1200px;
